@@ -17,7 +17,7 @@ apple = trtl.Turtle()
 #-----functions-----
 # given a turtle, set that turtle to be shaped by the image file
 def draw_apple(active_apple):
-  active_apple.shape(pear_image)
+  active_apple.shape(apple_image)
   wn.update()
 
 
